@@ -1,0 +1,49 @@
+/* h1{
+    text-align: center;
+    background: chartreuse;
+}
+
+.formalign{
+    border: 2px solid blue;
+    width: 650px;
+    height: 455px;
+    border-radius: 17px;
+    position: fixed;
+    top: 87px;
+    right: 683px;
+}
+
+.hghtwidth{
+    height: 32px;
+    width: 250px;
+} */
+
+.HC{
+    position: relative;
+    top: 110px;
+    font-size: 45px;
+    font-style:normal;
+    font-weight: 100;
+    color: blue;
+}
+
+.formstyle{
+    position: relative;
+    top: 141px;
+    left: 182px;
+}
+
+input{
+    margin-left: 58px !important;
+}
+
+select{
+    margin-left: 13px !important; 
+    height: 40px !important;   
+}
+
+
+label{
+    font-size: larger !important;
+}
+

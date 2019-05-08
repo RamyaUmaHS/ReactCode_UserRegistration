@@ -1,0 +1,38 @@
+
+#Signinform{
+    border: 1px solid black;
+    margin-top: 135px;
+    padding-top: 72px;
+    margin-left: 200px;
+    border-radius: 20px;
+    height: 680px;
+    width: 508px;
+}
+
+.headerClass{
+    position: relative;
+    font-size: 30px;
+    bottom: 43px;
+    right: 89px;
+    font-weight: 100;
+}
+
+.imgStyle{
+    position: relative;
+    right: 88px;
+    margin-bottom: 21px;
+}
+
+.loginClass{
+    width: 341px;
+}
+
+.marginStyle{
+    margin-left: 60px;
+}
+
+input{
+    position: relative;
+    left: -44px !important;
+    height: 42px;
+}

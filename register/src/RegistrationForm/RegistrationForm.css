@@ -1,0 +1,96 @@
+/* .Margins_Padding{
+    display: inline-block;
+    position: fixed;
+    font-size: 32px;
+    top: 134px;
+    left: 822px;
+    font-weight: 100;
+}
+.New{
+    font-size: 20px;
+    font-weight: 100;
+    position: fixed;
+    top: 186px;
+    left: 700px;
+}
+
+.alignmentclass
+{
+    border: 2px solid grey;
+    border-radius: 26px;
+    width: 626px;
+    position: fixed;
+    top: 100px;
+    left: 616px;
+    height: 617px;
+}
+
+input{
+    height: 30px;
+    width: 321px;
+} */
+
+
+
+.alignmentclass{
+    display: inline-block;
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-top: 135px;
+    padding-right: 143px;
+    width: 680px;
+    height: 820px;
+    position: relative;
+    right: 650px;
+}
+
+.headerStyles{
+    font-size: 22px;
+    font-weight: 100;
+    margin-top: 18px;
+    position: relative;
+    left: 51px;
+    top: 19px;
+}
+
+.Signinstyle{
+    display: inline;
+    font-size: 32px;
+    font-weight: 100;
+    position: relative;
+    right: 73px;
+    top: 22px;
+}
+
+.formStyles{
+    margin-top: 63px;
+    padding-right: 118px;
+}
+
+input{
+    width: 334px;
+}
+
+/* input{
+    width: 346px;
+    position: relative;
+    right: 59px;
+} */
+
+.btnClass{
+    position: relative;
+    left: 140px;
+}
+
+.loginbtnCls{
+    margin-left: -60px !important;
+    margin-bottom: 25px;
+}
+
+/* input{
+    position: relative;
+    top: 4px;
+    left: -100px !important;
+    width: 338px;
+    height: 42px;
+} */

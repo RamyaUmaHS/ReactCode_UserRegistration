@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-view-small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5_reset-password" transform="translate(-892.000000, -328.000000)">
+            <g id="Group-6" transform="translate(480.000000, 150.000000)">
+                <g id="Group-2" transform="translate(40.000000, 40.000000)">
+                    <g id="Group" transform="translate(0.000000, 124.000000)">
+                        <g id="icon-view-small" transform="translate(370.000000, 10.000000)">
+                            <g>
+                                <path d="M3.085,9.502 C3.495,10.389 5.421,14 9.538,14 C13.617,14 15.581,10.365 15.991,9.498 C15.581,8.611 13.655,5 9.538,5 C5.459,5 3.495,8.635 3.085,9.502 M9.538,15 C4.26,15 2.161,9.902 2.074,9.686 L2,9.5 L2.074,9.315 C2.161,9.098 4.26,4 9.538,4 C14.816,4 16.916,9.098 17.002,9.315 L17.077,9.5 L17.002,9.686 C16.916,9.902 14.816,15 9.538,15 M9.538,8 C8.711,8 8.038,8.673 8.038,9.5 C8.038,10.327 8.711,11 9.538,11 C10.365,11 11.038,10.327 11.038,9.5 C11.038,8.673 10.365,8 9.538,8 M9.538,12 C8.16,12 7.038,10.879 7.038,9.5 C7.038,8.121 8.16,7 9.538,7 C10.917,7 12.038,8.121 12.038,9.5 C12.038,10.879 10.917,12 9.538,12" id="Fill-1" fill="#B9BCC4"></path>
+                                <rect x="0" y="0" width="20" height="20"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

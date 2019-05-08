@@ -1,0 +1,16 @@
+/* .footer{
+    position: fixed;
+    bottom: 0;
+    right: 925px;
+    color: darkslategray;
+    font-size: 19px;
+} */
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    height: 27px;
+}
